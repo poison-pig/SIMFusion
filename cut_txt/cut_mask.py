@@ -5,7 +5,6 @@ import numpy as np
 # path = "F:\\untitleds\learn\data\LR_vis"         # txt标注文件的根目录
 # path_img = "F:\\untitleds\learn\data\crop_LR_visible"       # jpg图片的根目录
 # path3 = "F:\data\mask\LR_vis"    # 裁剪出来的掩膜保存的根目录
-
 path = "E:\mask_cut\RoadSence/test_vis_txt"         # txt标注文件的根目录
 path_img = "E:\mask_cut\RoadSence\ours"       # jpg图片的根目录
 path3 = "E:\mask_cut\RoadSence/vis_cut\ours_vis"    # 裁剪出来的掩膜保存的根目录
